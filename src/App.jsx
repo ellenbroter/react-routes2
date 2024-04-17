@@ -7,7 +7,7 @@ import Contact from './pages/Contact'
 import Wrapper from './wrapper/Wrapper'
 import LatestProducts from './pages/LatestProducts'
 
-import './App.css'
+import './App.module.css'
 
 
 const App = () => {
